@@ -2,6 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+from datetime import datetime, date
 
 # repo path
 repo_path = os.path.dirname(os.getcwd())
@@ -57,7 +58,13 @@ for link in links:
     filename = 'ac360_' + link.split('/')[4] + '_' + link.split('/')[6] + '_transcript.txt'
     output_path = os.path.join(repo_path, "data", "01-raw", "anderson_cooper", filename)
 
-    # if text > 0 and does not contain 'did not air', write to text file
-    if ('did not air' not in transcript_text.lower()) and (len(transcript_text) > 0):
-        with open(output_path, 'w') as f:
-            f.write(transcript_text)
+    # format transcript date
+    transcript_date = datetime.strptime(link.split('/')[4], '%Y-%m-%d').date()
+    
+    # if transcript date is between 3/1/2020 and 3/1/2022 and
+    # if text > 0 and does not contain 'did not air', 
+    # write to text file
+    if (transcript_date >= date(2020, 3, 1)) and (transcript_date <= date(2022, 3, 1)):
+        if ('did not air' not in transcript_text.lower()) and (len(transcript_text) > 0):
+            with open(output_path, 'w') as f:
+                f.write(transcript_text)
