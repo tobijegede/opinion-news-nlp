@@ -1,0 +1,222 @@
+Operator:
+Welcome and thank you for standing by. At this time, all participants are on listen only mode during the Q&A session. If you’d like to ask a question, you may press star one on your phone. Today’s call is being recorded. If you have any objections, you may disconnect at this time. Now I’d like, turn the call over to Mr. Benjamin Hayes. Sir, may begin.
+Benjamin Haynes:
+Thank you, Ted. And thank you all for joining us for today’s COVID 19 update. We’re joined by CDC Director, Dr. Rochelle Walensky and Dr. Greta Massetti from the COVID 19 Incident Management Team, both will provide opening remarks before taking your questions. I would now like to turn the call over to Dr. Walensky.
+Dr. Walensky:
+Thank you, Benjamin and thank you all for joining us today. Today, CDC is updating its framework to monitor the level of COVID 19 and communities. We’re in a stronger place today as a nation with more tools to protect ourselves in our communities from COVID 19, like vaccination, boosters, broader access to testing, availability of high quality masks, accessibility to new treatments, and improved ventilation. Over 200 million people have received a primary vaccine series and nearly 100 million have been boosted and millions more have had prior disease. With widespread population immunity, the overall risk of severe disease is now generally lower. Now, as the virus continues to circulate in our communities, we must focus our metrics beyond just cases in the community and direct our efforts toward protecting people at high risk for severe illness and preventing COVID 19 from overwhelming our hospitals and our healthcare systems. This new framework moves beyond just looking at cases and test positivity to evaluate factors that reflect the severity of disease, including hospitalizations and hospital capacity, and helps to determine whether the level of COVID 19 and severe disease are low, medium, or high in a community.
+Dr. Walensky:
+The COVID 19 community level we are releasing today will inform CDC recommendations on prevention measures like masking and CDCs recommendations for layer prevention measures, and will depend on the COVID 19 level in the community. This updated approach focuses on directing our prevention efforts towards protecting people at high risk for severe illness and preventing hospitals and healthcare systems from being overwhelmed. To find your community level, we are updating the CDC’s website to reflect this framework. So people will be able to go to www.cdc.gov or call 1-800-CDC-INFO to find your community level and what prevention strategies are recommended, including where or when to mask. Please remember that there are people who remain at higher risk for COVID 19 and who may need additional protection. Those who are immunocompromised or have underlying health conditions, those who have disabilities, or those who live with people who are at risk. Those people might choose to take extra precautions regardless of what level their community is in. So with that, I’m going to turn things over now to Dr. Greta Massetti, who will walk us through this framework and the science behind it. Thank you.
+Dr. Massetti:
+Thank you, Dr. Walensky. The updated metrics in this framework provide a current picture of COVID 19 disease in a community. They also include strong predictors of the potential for strain on the healthcare system. A community’s COVID 19 level is determined by a combination of three pieces of information: new hospitalizations for COVID 19, current hospital beds occupied by COVID 19 patients or hospital capacity, and new COVID 19 cases. These metrics will tell us if the level is low, medium, or high. Let me walk you through what we are recommending at each level. Regardless of level, we continue to recommend that people stay up to date on vaccines and get tested if they’re sick.
+Dr. Massetti:
+At the low level, there is limited impact on the healthcare system and low amounts of severe disease in the community. People should stay up to date with their vaccines and get tested if they’re sick. At the medium level, more people are experiencing severe disease in the community and they’re starting to see more impact on the health healthcare system. At this level, CDC recommends that people who are high risk, such as someone who is immunocompromised, should talk to their healthcare provider about taking additional precautions and may choose to wear a mask. As communities enter into the high level, there is high amount of people experiencing severe disease and high potential for healthcare systems strains. At the high level, CDC recommends that everyone wear a mask indoors, in public, including in schools. Communities can use these metrics, along with their own local metrics, such as wastewater surveillance, emergency department visits, and workforce capacity, to update and further inform their local policies and ensure equity and prevention efforts. And these categories help individuals assess what impacts COVID 19 is having on their community so that they can decide if they need to take extra precautions, including masking based on their location, their health status, and their risk tolerance.
+Dr. Massetti:
+We should all keep in mind that some people may choose to wear a mask at any time based on personal preference. And importantly, people who wear high quality masks are well protected, even if others around you are not masking. And there are some situations where people should always wear a mask. For example, if they have symptoms, if they tested positive for COVID 19, or if they have been exposed to someone with COVID 19. Today, we’re also updating our recommendations for schools. Since July, 2021, CDC recommended universal masking in schools, no matter what level of impact COVID 19 was having on the community. With this update, CDC will now only recommend universal school masking in communities at the high level. Importantly, COVID 19 community levels and public health prevention strategies can be dialed up when our communities are experiencing more severe disease and dialed down when things are more stable. So what do these updated metrics mean for where we are as a country, as of today, more than half of counties representing about 70% of Americans are in areas with low or medium COVID 19 community levels. This is an increase from about one third of counties at low or medium community levels last week and we continue to see indicators improve in many communities. Thank you. And I will now hand it back to Dr. Walensky.
+Dr. Walensky:
+Thank you, Dr. Massetti, before we take your questions, I would like to leave you with a few final thoughts. None of us know what the future may hold for us and for this virus and we need to be prepared and we need to be ready for whatever comes next. We wanna give people a break from things like mask wearing when our levels are low and then have the ability to reach for them again, should things get worse in the future. We at CDC will continue to follow the science and epidemiology to make public health recommendations and guidance based on the data. Our new framework was rigorously evaluated both with current data and retrospectively during the Alpha, Delta and Omicron waves and these new metrics have demonstrated predictive capacity for weeks into the future. We will continue to evaluate how well they perform in our communities. This new framework will best way for us to judge what level of preventive measures may be needed in our communities. If or when new variants emerge or the virus surges, we have more ways to control the virus and protect ourselves and our communities than ever before. Thank you. I’ll now turn it back over to you, Benjamin.
+Benjamin Haynes:
+Thank you, Dr. Walensky and thank you, Dr. Massetti. Ted, we are ready to take questions.
+Operator:
+The phone lines are now open for questions. If you would like to ask a question over the phone, please press star one and record your name. We also ask that you just limit yourself to one follow up question. If you would like to remove your question, please press star two. One moment please. And the first question accused from Dr. Jon LaPook with CBS news, your line is not open.
+Dr. Jon LaPook:
+Hi, thank you. Thanks for this update and we’ve heard that, you know, the best mask is the one people will wear, but let’s assume somebody’s incentivized to wear the best mask they can and they’re gonna try to get it well fitted. Can you be more granular about which mask provide the best protection is an N 95, KN-95, KF-94. surgical cloth. What should people who want to protect themselves the most, which of the masks they should be using? Thanks.
+Dr. Walensky:
+Maybe I’ll start with that. Thank you, Dr. LaPook. Of course we’ve said in our prior masking guide that infiltration are key in those, the N-90-
+Dr. Massetti:
+It sounds like we might have lost Dr. Walensky. I think what she was noting was that we often have emphasized that fit and filtration are really critical and there are a variety of ways to achieve that. One way is to use a respirator, um, like an N-95 or a KN 95. They provide good fit and filtration for people, and they provide high protection to the wearer. There are other options as well, including using a surgical mask or a surgical mask layered with a cloth mask. And also we have on our website resources to show people how to knot and tuck the ear loops on mask to improve fit and filtration as well.
+Dr. Jon LaPook:
+Right, no, of course, we all, thanks. We all see people with wearing just sort of a plain cloth and maybe it’s underneath the nose, but I was just wondering if you wanted to emphasize what’s the best case scenario for people since, since it just says, wear a mask.
+Dr. Massetti:
+So CDC recommends that that people should wear the mask that has the best protection and filtration for them and that they will wear consistently.
+Dr. Jon LaPook:
+Thanks.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Ron Lin with the Los Angeles Times, your line is now open.
+Ron Lin:
+Hey, I was wondering, can you go into how you came up with the details of the metrics for those three levels and what the science is based off of them in terms of numbers. And where would a place like LA county, which has tied its local mask mandate to CDCs old mask recommendations? Where would they lie? Would they no longer be required to no longer be recommended to wear masks? Thanks.
+Dr. Walensky:
+I’m back. So maybe I’ll get started and pass it over to you, Dr. Massetti, thanks for filling in there. So, one of the things that was really important is we have more and more people and more and more immunity in the population. We wanted to make sure that we were focusing on severe disease because we do want to prevent severe disease. We want to prevent hospitalizations. We want to prevent our hospitals from becoming overwhelmed. So our metrics were really with that in mind, what are severe, how much severe disease is happening, and then to use those metrics to understand, can we find levels where we can predict outcomes in the future where we might be able to act on them now to avert those outcomes in the future. Bad outcomes, like ICU stays, high levels of death. So maybe I’ll pass it over now back. So Dr. Massetti to give you more granular detail.
+Dr. Massetti:
+Great. Thanks so much, Dr. Walensky. So as Dr. Walensky noted, we were really focused on measures of healthcare strain and severe disease. And so we conducted an extensive review of all data systems that are reported to CDC and often available on our website on COVID data tracker. We reviewed all data sources and really assess them against several criteria, including do they measure severe disease or healthcare strain? How well do they provide data that is available at the local level where it can really inform local decisions? And do we have national coverage for all counties in the United States? And are they reported frequently enough to be able to inform timely decisions? And based on that thorough review, we refined the list and came up with these indicators, including new hospital admissions and hospital beds utilized and complimented them with case incidents to really create a package of metrics to be able to understand happening at the local level.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Drew Armstrong with Bloomberg News, your line is now open.
+Drew Armstrong:
+Hi, Drew Armstrong from Bloomberg news. I’m wondering, thinking ahead, are there other COVID metrics or measures that CDC has using or collecting that should be overhauled or refined as we move into whatever this next phase of the pandemic is? And, if so, what are some potential examples of that?
+Dr. Walensky:
+So we have, we certainly look at comprehensive data and we get a whole stream of data, some that are different by jurisdiction. So for example, we just last week posted our wastewater data, and we anticipate that our wastewater data, while we have 400 sites posted, and that represents about 53 million Americans, that is still focal. And we really want are working to expand that. So we intend to double that over the next month or so. Syndromic surveillance would be another way that we could expand some of these metrics again. As Dr. Massetti said, it’s really important as we come up with national metrics that we have coverage from every county, not every county is reporting syndromic surveillance, although we’re working to scale that up as well. So we have on our eye on many different metrics, which is why we hope that these metrics that we’re releasing today will be very helpful for policy makers, but we also hope that local jurisdictions will take into account all the information that’s available to them.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Helen Branswell with STAT. Your line is now open.
+Helen Branswell:
+Hi, thank you very much for taking my question. I know, I think this is gonna be an irritating question, but when you talk about, you know, the metrics about, you know, the percentage of people in hospital beds who are, there because of COVID, is that for COVID or with, I mean, will the with COVID people also be part of those calculations?
+Dr. Walenksy:
+Helen, that’s a great question. We have spent a lot of time thinking about this. And let me tell you sort of where we landed and why. First, we are considering anybody in a hospital bed with COVID, regardless of the reason for admission and that the reason that we landed there is multifold. First many jurisdictions can’t differentiate. So that was important for us to recognize and realize. Second, whether or not a patient is admitted with COVID or for COVID, they increase the hospital capacity and they’re resource intensive. They require an isolation bed. They require PPE. They probably require a higher staff ratio. And so they are more resource intensive and they do take a COVID bed potentially from someone else. Interestingly, as well, as we have less and less COVID in certain communities, the amount of people who are coming into the hospital with COVID will necessarily decrease.
+Dr. Walensky:
+We will not have as many people walking around asymptomatically because there will just be less disease out there. So increasingly as we have less disease in the community, we anticipate that more of the people who are coming into the hospital are going to be coming in because of COVID. And then finally, as we have even less disease in the community, we anticipate that not every hospital is going to screen every patient for COVID as they walk in the door, especially if we have less and less disease in the community. And when that happens, we won’t actually be able to differentiate. In fact, people who are coming in, who are tested will necessarily be coming in for COVID. So for all of those reasons, comprehensively, we decided to say with anybody coming in with a COVID diagnosis.
+Helen Branswell:
+Thank you.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Cheyenne Haslett with ABC News, your line is now open.
+Cheyenne Haslett:
+Hi, thank you for taking my question. Dr. Walensky can you explain the decision to include schools in the loosening of the mask recommendations? And as a follow up, on public transportation, do you expect that recommendation for masks to expire on March 18th or be extended?
+Dr. Walensky:
+Um, so maybe I’ll take the first, the second question first and then pass the school question to Dr. Massetti. The COVID 19 community levels are intended for communities, they’re not intended for our travel quarters, as you note, those expire in the middle of March, and we will be revisiting that in the weeks ahead. And then maybe Dr. Massetti, do you want to take the school question?
+Dr. Massetti:
+Yes. Thank you, Dr. Walensky. So, we’ve been reviewing the data on COVID illness in children for two years of a pandemic. And we have seen that although children can get infected and can get sick with COVID, they’re more likely to have asymptomatic or mild infections. So fortunately we know that when schools implement layered prevention strategies, that they can prevent SARS COV-2 two transmission or transmission of the virus that causes COVID 19 in schools. And we know that also because children are relatively at lower risk from severe illness that schools can be safe places for children. And so for that reason, we’re recommending that schools use the same guidance that we are recommending in general community settings, which is that we are recommending people wear a mask in high levels of COVID 19. But that, the medium level that the recommendation is primarily based on whether somebody wants to talk to their healthcare provider about whether they’re high risk.
+Cheyenne Haslett:
+Thank you.
+Benjamin Haynes:
+Next question, please, Ted.
+Operator:
+Next question is from Allison Aubrey with NPR. Your allow is now open.
+Allison Aubrey:
+Hi, thanks for taking my question. I’m wondering if the updated page where you’re sort of saying the map of this is low, medium or high community, is this being updated with new data all of the time? So it’s always up to date? And will this be updated sort of in perpetuity? We know that COVID is not being eradicated. There’s talk of, we could see outbreaks at any point in the future. Just talk about sort of those, how actively this is maintained and for how long.
+Dr. Walensky:
+Thank you, Allison. We intend to keep this updated. Of course, not every county reports every metric every day. So we intend to keep this updated on a weekly cadence. And we intend to do so for the foreseeable future. Of course, this virus has dealt us many a curve balls but for the foreseeable future is what we’re looking at right now.
+Allison Aubrey:
+Okay. Thank you.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from John Woolfolk with San Jose Mercury News. Your line is now open.
+John Woolfolk:
+Hi. So, the new metrics that you all are talking about sound like they’re based mostly on the strain on the health bureaucracy and not, I mean, our readers are mostly interested in your guidance for what it means for them to avoid getting COVID and spreading it. And based on the metrics and the rules that were in place as of this morning, before announcement, that would mean like pretty much all of California where we are, “you should wear a mask if you don’t want COVID” recommendation. And it sounds like I haven’t seen what your new metric says for our area, but it sounds like it’s now saying, well, that’s not operative anymore. Go ahead and take the mask off. Is that are people safe going in and around in public indoors without masks in places where your metrics now say it’s a high transmission situation?
+Dr. Walensky:
+Thank you, John. So first and foremost, I’d like to go back to what Dr. Massetti said, which is anybody is certainly welcome to wear a mask at any time, if they feel safer wearing a mask. So we are absolutely endorsing if you feel more comfortable wearing a mask, feel free to do so. And we should encourage people to have that liberty to be able to do so. The intent of these community guidance is to look at really severe disease – people who are coming into the hospital. We know that there’s going to be transmission of COVID 19 out there. And what we wanna do is make sure that our hospitals are okay and that people are not coming in with severe disease, but of course, is important to note that the volume of severe disease in the hospital is likely representative of the volume of disease in general in the community. So they are very much linked. Certainly it’s also linked to vaccination rate as well, but certainly if people are interested in wearing a mask to feel safer, they certainly can, and anyone can go to the CDC website, find out the volume of disease in their community, and then make that personal decision.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Meg Tirrel with CNBC, your line is now open.
+Meg Tirrel:
+Well, thank you. I’m just wondering how dependably counties are reporting all of these metrics, particularly with case numbers. Is there enough testing going on for that to be a reliable metric and you know, the same question for the hospitalizations reporting?
+Dr. Walensky:
+Dr. Massetti? Do you want to take that one?
+Dr. Massetti:
+Sure. Yeah. So to the question about the hospitalization metrics. So those are actually reported by healthcare facilities. There are 6,000 hospitals in the United States that are required to report those data every day – Monday through Friday. And usually there’s better than 95% coverage on any given day. So hospitals are very consistently compliant with reporting those data. We do have very high completion of those data. So we’re quite confident that those data are continuing to flow in and reflect what’s happening in those hospital. The case data are also largely reported from public health laboratories and have really reflected that the the nucleic acid amplification test results. They do not reflect in many places do not reflect at home tests, which are not reported, but those are the laboratory test results are continuing to be reported fairly consistently.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Catherine Roberts with consumer reports. Your line is now open.
+Catherine Roberts:
+Thanks for taking my question. I’m wondering, um, to what extent, if at all, um, does this new metric account for people who may have been seriously, um, disabled or sort of long term sick due to like long COVID, but who’ve never actually been hospitalized with acute COVID, is that factored into this at all?
+Dr. Walensky:
+Um, it’s a good question. We, you know, we’re not looking historically about at prior hospitalizations. What we’re looking at is, um, hospitalizations now and hospital capacity. Now.
+Catherine Roberts:
+Is there any way to sort of account for those folks who know the folks who may have gotten a, some kind of disability from COVID, but who aren’t, you know, taking up capacity? Is that, is that in the, in the works basically?
+Dr. Walensky:
+Um, so CDC has many different cohort studies to examine long COVID. We know that this is critically important. The NIH two is examining long COVID, and we are doing this through collaborations with states on survey data, long-term, prospective cohort data, um, and, and, uh, um, hospitalization and, and, uh, data from hospitals as well. So we are looking into this for sure. And, and we know much work in what many studies need to be done for long COVID specifically, but in terms of hospital capacity today to forecast what would happen six weeks from now, um, in our, in our COVID 19 community levels, the, that is not accounted for.
+Catherine Roberts:
+Okay. Thank you.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Dave McKinley with w G R Z Buffalo, New York. Your line is not open.
+Dave Mckinley:
+Yeah. Hi there. I hope you can hear me. Um, you have these, uh, uh, metrics where you would establish whether community was high, uh, medium, uh, subs or high, substantial, moderate low, and there were specific numbers attached had, have those numbers changed in term in determining high or, or substantial or moderate, or are those numbers, you know, where it was fewer than 100, as opposed to fewer than 50, are, are those changing at all? And, and the second part of my question has to do with air airplanes and stuff like the in buses. I, I, you may have addressed that, uh, and I may have missed it.
+Dr. Walensky:
+Yeah. So first of all, just take the easy one, which is this addresses communities, but not our travel corridors. So nothing will change in our travel corridors. With regards to where we were in our prior community transmission, those were different metrics. They were based on only cases and percent positivity that led us to those, blue, yellow, orange, red. And so cases will still be a part of it, but we need to recognize that, you know, cases we’re counting cases differently now than we did, you know, over a year ago when we established those prior metrics. So now our case thresholds is going to be over 200 per hundred thousand, rather than the 100 per hundred thousand
+Dave Mckinley:
+That’s high.
+Dr. Walensky:
+Again, it’s not, yeah, it’s not just, well, it’s not just cases. It is cases of well as hospitalizations as well as hospital burden. So it’s the, it’s the, intersection of all of those that leads you to a green, yellow, or orange color in these new metrics.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Erin Garcia with science news. Your line is open.
+Erin Garcia:
+Hi. Um, thanks for taking my question. I was kind of curious how the method that we’re using that you guys are switching to for COVID -19 compares to how we’re surveilling for influenza, for instance, did you pull on any of the expertise from how we look at flu or is this completely separate?
+Dr. Walensky:
+Dr. Masetti, do you wanna take that?
+Dr. Massetti:
+Sure. Thank you, Dr. Walensky, and thank you for the question. So we talked to a lot of experts in flu surveillance and flu measurement. We have a lot of, wonderful experts both within the, within CDC and outside CDC to really understand kind of what is the future of surveillance for COVID- 19 and what can we learn from and apply from the, um, from the flu model? The metrics that we specifically are relying on here for these COVID- 19 community levels, don’t , reflect data that were stood up in summer of 2020, specifically for pandemic response data collection and through the unified hospital data system. So this is really a phenomenal data source that allows us to on a daily basis assess how many new hospitalizations that have been, in, in hospitals for people with confirmed COVID- 19 and the percent hospital capacity, and hospital beds been used by people with COVID- 19. And so that is, that’s not a data, that that includes flus, that has not a, a data surveillance system that, that has been used for flu, but we’re really interested in expanding and, and also collecting, seeing how this model can also apply to other respiratory illnesses in the future.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Julie Steenhuysen with Reuters. Your line is now open.
+Julie Steenhuysen:
+Thanks for taking my call. So I’m interested in knowing, like how does the CDC arrive at the conclusion that hospitalization and capacity were the key issues that, you know, we need to focus on now and preventing transmission is less important and, won’t this be challenging, to get compliance if there’s another variant that comes along, that is more virulent than the one we have now.
+Dr. Walensky:
+Certainly maybe I’ll start with the first, the second question first, and just say, we recognize that we need to be, flexible and to be able to say, we need to be able to relax our, our, layer prevention measures when things are looking up when we have fewer cases in fewer hospitalizations, and then we need to be able to dial them up again, when we might have, should we have a new variant or a new surge? And I think that that’s a really important message that we’re trying to get across here. What we do know about the current moment, um, with we saw certainly a severity a decreased severity associated with, we had many, many more cases than we had hospitalizations, as we saw than we saw with alpha or Delta. And in that backdrop, we also had much more population immunity by vaccination boosting and, and prior infection. And so many, many of our infections did not result in severe disease. It did not result in, increased hospital capacity. And it was in that context that we made this pivot.
+Julie Steenhuysen:
+Thank you.
+Operator:
+Next question is from Meg winger with the Denver post. Your line is open.
+Meg Wingerter:
+Hello. Thanks for taking my question. I wanted to ask about, so it sounds like for the hospital capacity, you’re specifically looking at people hospitalized, um, with COVID. Um, but what we’re having in Colorado right now is very low, pretty low at any rate COVID hospitalizations, but are beds are still 90% full any given day. Is there any way you want communities to factor in that overall level of capacity where even a, a smaller surge could be a bigger problem because there’s not much left. Thank you.
+Dr. Walensky:
+Maggie. You actually hit the nail exactly on the head. So not only are we looking at hospital admissions but also hospital capacity, those who are admitted with COVID-19, what fraction of their bed. So if you’re at 90% in Colorado that, ou know, we would be taking that exact, uh, parameter into account.
+Speaker 19:
+Next
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Michael Imani with K O M U. Your line is now,
+Micheal Imani:
+Hi, how are you? This might be for both of you, but I actually wanted to hear from Dr. Walensky as well. But this is in relation to the new metrics or the new, excuse me, the new, holistic view of risk from coronavirus, to the community. And I was wondering how you guys are making that change. I know you kind of detailed it in your opening, but I was wondering if you can get into specifics with regards to that.
+Dr. Walensky:
+So thank you. So we are looking at, fraction of hospitalizations that are COVID, we’re looking at number of admissions for a hundred thousand, that are COVID. And then we’re also looking at cases. And so all three of those together, we have thresholds that we’ve measured. Then Dr. Massetti has a, has discussed, and we created those thresholds based on their ability to be predictive of, ICU safe hospitalizations and deaths in three to six weeks in the future, so that we could take action. So, all of that work together leads us into three different colors, green, yellow, and orange. Those colors will reflect low, medium, and high community levels, and then those levels get matched to our recommendations and our guidance.
+Micheal Imani:
+Thank you, doctor. I appreciate it.
+Dr. Walensky:
+Dr. Massetti, anything, anything to add there?
+Dr. Massetti:
+No, I think that’s a, that covers it really well. Thank you, Dr. Walensky.
+Operator:
+Thank you. Thank you.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Tom Howell with the Washington times, your line is not open.
+Tom Howell:
+Hey, thanks for doing the call. Can you give the immediate geographic impact of the guidance? Um, what percentage of counties are in the low category? What percentage are in medium and what percentage are in high? Thank you.
+Dr. Walensky:
+Dr.Massetti, you have those numbers.
+Dr. Masetti:
+I do, just right in front of me. So, these are as of, the latest data. 23% of counties are at low, 39.6% of counties are at medium, and 37.3% of counties are at high levels.
+Tom Howell:
+So all about 37.3 is high, your recommendation is that everyone wear masks in indoor public settings in those places? Is that correct?
+Dr. Massetti:
+Yes, that’s correct.
+Benjamin Haynes:
+Next question, please.
+Operator:
+Next question is from Adriana Rodriguez with USA Today. Your line’s now open.
+Adriana Rodriguez:
+Hi, thank you so much for taking my question. I was wondering why, vaccination rates weren’t included in these metrics or in this equation to calculate, community COVID risk, and if maybe that will be included in the metrics sometime in the future.
+Dr. Walensky:
+So, you know, what we’re really focused on is risk of severe disease and risk of, being admitted into the hospital risk of your hospitals, becoming full, truly vaccination rates do sort of fall on the causal pathway if you will, for risk of severe disease. So if someone is unvaccinated and has underlying health conditions, they certainly are at high risk of severe disease. And so, it, it is part of the equation. It’s not sort of among the things that that’s listed, but, certainly it is reflected in who will come into the hospital with severe disease. And, and of course we would always recommend that if you’re unvaccinated, you and you’re eligible for vaccination, you should get vaccinated. And if you’re eligible for boosting, you should get boosted to remain up to date. And that of course would decrease is your risk of hospitalization. In fact, our most recent data have demonstrated that if you are boosted you’re 97 times less likely to die of COVID than if you’re unvaccinated.
+Adriana Rodriguez:
+So if, if a person is in one county and the hospitalization rates are the same as another person in another county, but vaccination rates are vastly different, mask guidance would be the same?
+Dr. Walensky:
+They would.
+Adriana Rodriguez:
+Thank you.
+Benjamin Haynes:
+Ted. We have time for two more questions.
+Operator:
+Okay. The next question is from Stephanie Innes with Arizona Republic, your line is open.
+Stephanie Innes:
+Uh, yes. Thanks for taking my question. I wanted to know if this framework takes into account people who work in high-risk jobs like grocery stores and restaurants, should they be considering if it’s green, they don’t need to wear a mask and should businesses think that way as well?
+Dr. Walensky:
+So certainly all of those all of our recommendations, are translated into policy at the local and jurisdictional level. And we would say any, any, local, business certainly has the, ability to make, recommendations based on or policy based on where they are, whether they have, they may have more information based on wastewater or high risk communities or, or equity for many different, for many different reasons. But, our guidance would say that if you are in a green community, that ,that community in general would not need to be wearing a mask. Certainly of course, anybody can wear a mask at any time if they choose to protect themselves that way.
+Stephanie Innes:
+Thank you.
+Benjamin Haynes:
+And the last question, please?
+Operator:
+Yes. The last question is from Dan Petro with the Chicago Tribune, your line is now open.
+Dan Petro:
+Can you address, the timing of this decision and perhaps the public perception that, CDC is being pulled along here by the, the governors in, in many states who didn’t wait for these new recommendations before making changes to what was being done at the state level?
+Dr. Walensky:
+Yes, absolutely. First I will say that we at the CDC, and I think you’ve heard me talk publicly about this, have been thinking about, shifting our metrics to hospitalizations for some time. Now we’ve been talking about this for some time. Certainly we know that many governors made announcements several weeks ago, but many of those announcements actually were phased in. And in fact, didn’t acutely say they were gonna take masks off, but they were going to take masks off at the end of February or in early March or in the middle of March. So ,I would say our guidance actually probably very much intersects exactly where many of those phase approaches are going to be in that many of those governors, when they’re, when their, policies are at play, will coincide with exactly what we are recommending.
+Benjamin Haynes:
+Thank you, Dr. Walensky, and thank you Dr. Massetti. And thank you all for joining us today. If you have further questions, please contact the media office at 4 0 4 6 3 9 3 2 8 6 or email media@cdc.gov. Thank you.
+Operator:
+This concludes today’s call. Thank you for your participation. May disconnect at this time.
