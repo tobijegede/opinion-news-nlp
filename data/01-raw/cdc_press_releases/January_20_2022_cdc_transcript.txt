@@ -1,0 +1,9 @@
+Today’s MMWR study finds that during the Delta wave, both COVID-19 vaccination and surviving a prior infection provided protection against infection and hospitalization from COVID-19. Scientists reviewed data from New York and California to determine the level of protection offered by COVID-19 vaccines, previous infection, and both. Between May and November 2021, people who were unvaccinated and did not have a prior COVID-19 infection remained at the highest risk of infection and hospitalization, while those who were previously infected, both with or without prior vaccination, had the greatest protection.
+Viruses are constantly changing, including the virus that causes COVID-19. These changes occur over time and can lead to the emergence of new variants that have new characteristics, including ones that impact the level of immunity vaccination and/or prior infection can provide. The level of protection offered by vaccination and surviving a previous infection changed during the study period. Vaccination remains the safest strategy for protecting against COVID-19.
+There are important caveats to the data presented in this study:
+
+The analysis was conducted before the emergence of the Omicron variant and the findings cannot be applied to the current Omicron wave.
+The study ended prior to the widespread implementation of booster doses and does not reflect the immunologic benefit of additional vaccine doses.
+The analysis did not include information on the severity of initial infection and does not reflect the risk of morbidity and mortality from COVID-19 infection.
+
+Additionally, a recent studyexternal icon shows with increasing time since prior infection, vaccination provides greater protection against COVID-19 compared to prior infection alone, emphasizing the importance of being up to date on COVID-19 vaccination. Later this week, CDC will publish additional data on COVID-19 vaccines and boosters while Omicron has been circulating.
